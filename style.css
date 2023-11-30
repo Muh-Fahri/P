@@ -1,0 +1,27 @@
+body{
+    scroll-behavior: smooth;
+    transition: background-color 0.5s ease;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+  }
+
+nav{
+    z-index: 1;
+  }
+
+span{
+  color: aqua;
+}
+
+.tampilan-kedua{
+  background-color: rgb(218, 218, 218);
+}
+
+footer{
+  background-color:rgb(163, 46, 66);
+}
+
+ul li a{
+  color:black
+}
