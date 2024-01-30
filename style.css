@@ -25,3 +25,31 @@ footer{
 ul li a{
   color:black
 }
+
+.namaku span{
+  color: rgb(164, 0, 0);
+}
+
+.tulisan-kedua a {
+  color: black;
+  text-decoration: none;
+}
+
+.tulisan-kedua a:hover{
+  color: rgb(124, 0, 0);
+  font-weight: bold;
+}
+
+.zoom-box {
+  position: fixed;
+  display: none;
+  width: 200px;
+  height: 200px;
+  border: 2px solid #000;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.zoom-box{
+  border: none;
+}
